@@ -11,12 +11,12 @@ config = {
     'author_email': 'andremrsantos@gmail.com',
     'version': '0.1',
     'install_requires': ['nose', 'numpy', 'scipy'],
-    'packages': ['gvassoc'],
+    'packages': ['lib'],
     'scripts': [
         'bin/association.py',
         'bin/query.py'
     ],
-    'name': 'gvassoc'
+    'name': 'lib'
 }
 
 setup(**config)

@@ -1,5 +1,5 @@
 from nose.tools import *
-from gvassoc.gzindex import GzipIndexer, GzipIndex
+from lib.gzindex import GzipIndexer, GzipIndex
 from io import StringIO, BytesIO
 
 class TestGzipIndexer:

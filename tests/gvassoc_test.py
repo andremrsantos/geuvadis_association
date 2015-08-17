@@ -1,5 +1,5 @@
 from nose.tools import *
-import gvassoc
+import lib
 #
 # def setup():
 #     print("SETUP!")

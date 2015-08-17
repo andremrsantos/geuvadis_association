@@ -1,5 +1,5 @@
 from nose.tools import *
-from gvassoc.gzindex import GzipIndex
+from lib.gzindex import GzipIndex
 from io import BytesIO
 
 # def setup():
